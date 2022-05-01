@@ -1,22 +1,17 @@
 {
-  "name": "electron-quick-start",
+  "name": "phaser-electron-game",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A small electron+phaser game",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
-  "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
-  ],
-  "author": "GitHub",
+  "author": "@c4llv07e",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^18.1.0"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2"
   }
 }

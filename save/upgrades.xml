@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<upgrades>
+    <class id="player">
+        <speed>300</speed>
+        <shoot_time>300</shoot_time>
+    </class>
+    <class id="bullets">
+        <bullet_speed>800</bullet_speed>
+    </class>
+</upgrades>
